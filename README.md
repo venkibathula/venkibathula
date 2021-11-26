@@ -2,6 +2,8 @@
 
 You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/venki-bathula/)
 
+[My Resume](https://gateway.ipfs.io/ipfs/QmWQd6c3Rm2b4UVpk3pZpgB6CWZb1BGd7m3SSc4Xr1s6bn)
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=venkibathula)
 
 I am a senior software engineer having seven years of experience providing organizational leadership in defining software application design and web solutions, specifically in

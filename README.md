@@ -27,7 +27,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ![](https://img.shields.io/badge/Code-IPFS-informational?style=flat&logo=ipfs&logoColor=white&color=2bbc8a)
 
 
-📈 **My GitHub Stats:**
+## &#x1f4c8; GitHub Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venkibathula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkibathula&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>

@@ -2,7 +2,7 @@
 
 You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/venki-bathula/)
 
-[Click here for more info abut me](https://gateway.ipfs.io/ipfs/QmWQd6c3Rm2b4UVpk3pZpgB6CWZb1BGd7m3SSc4Xr1s6bn)  <img src="https://raw.githubusercontent.com/venkibathula/venkibathula/master/wr-resumes-logo.png" width="30px">
+[Click here for more info about me](https://gateway.ipfs.io/ipfs/QmWQd6c3Rm2b4UVpk3pZpgB6CWZb1BGd7m3SSc4Xr1s6bn)  <img src="https://raw.githubusercontent.com/venkibathula/venkibathula/master/wr-resumes-logo.png" width="30px">
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=venkibathula)
 

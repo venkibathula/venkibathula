@@ -4,10 +4,9 @@ You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e7
 
 [Click here for more info about me](https://gateway.ipfs.io/ipfs/QmWQd6c3Rm2b4UVpk3pZpgB6CWZb1BGd7m3SSc4Xr1s6bn)  <img src="https://raw.githubusercontent.com/venkibathula/venkibathula/master/wr-resumes-logo.png" width="30px">
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=venkibathula)
+### Glad to see you here!
 
-I am a senior software engineer having seven years of experience providing organizational leadership in defining software application design and web solutions, specifically in
-java. Passionate about software development and programming languages.
+I am a senior software engineer having 8+ years of experience providing organizational leadership in defining software application design and web solutions, specifically in Java. Passionate about software development and programming languages.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
